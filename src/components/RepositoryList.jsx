@@ -1,4 +1,7 @@
 import { RepositoryItem } from "./RepositoryItem";
+
+import '../styles/repositories.scss';
+
 const repo = {
     name: "Name",
     description: "Repo description",
